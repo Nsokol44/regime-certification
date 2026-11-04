@@ -1,0 +1,39 @@
+SOURCE ARCHIVE — text extraction
+Publisher: Gallup News Service
+Document: "FINAL PRE-ELECTION POLL -- FINAL TOPLINE"
+(Timberline: 937080; Jeff Jones, Lydia Saad; November 1-4, 2012)
+URL: http://gallup.com/file/poll/158540/Congress_121106.pdf
+Accessed: 2026-11-04
+Covers CSV row: 2012 (single-poll stand-in for the RCP average);
+also corroborates the 1992 trend row and the raw LV finals for
+2008, 2004, 2000, 1996.
+
+=====================================================================
+"Results are based on telephone interviews conducted November 1-4,
+2012, on the Gallup Daily Election Tracking Poll, with a random
+sample of 3,117 adults... Results for likely voters are based on the
+subsample of 2,551 survey respondents deemed most likely to vote in
+the November 2012 General Election..."
+
+16. If the elections for Congress were being held today, which
+party's candidate would you vote for in your Congressional district
+-- [ROTATE: the Democratic Party's candidate or the Republican
+Party's candidate]?
+16A. (If undecided or other) As of today, do you lean more toward --
+[ROTATE: the Democratic Party's candidate or the Republican Party's
+candidate]?
+
+COMBINED RESULTS (Q.16/16A):
+Likely voters      2012 Nov 1-4   Dem 49   Rep 48   Other/undecided 3
+Registered voters  2012 Nov 1-4   Dem 49   Rep 47   Other/undecided 4
+National adults    2012 Nov 1-4   Dem 49   Rep 45   Other/undecided 6
+
+TRENDS FOR COMPARISON: Final Pre-Election Poll Trends
+(Presidential election years)
+LIKELY VOTERS (Dem / Rep / Undecided-other):
+2008 Oct 31-Nov 2   53  41  6
+2004 Oct 29-31      48  47  5
+2000 Nov 5-6        49  45  6
+1996 Nov 3-4        48  45  7
+REGISTERED VOTERS:
+1992 Oct 23-25      51  41  8

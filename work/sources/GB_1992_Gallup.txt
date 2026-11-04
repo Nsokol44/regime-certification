@@ -1,0 +1,35 @@
+SOURCE ARCHIVE — text extraction (two Gallup documents)
+Covers CSV row: 1992 (calibration only)
+Accessed: 2026-11-04
+
+=====================================================================
+DOCUMENT 1
+Publisher: Gallup News Service
+Article: "Control of U.S. House Looks Too Close to Call"
+(published 2004-11-01)
+URL: https://news.gallup.com/poll/13879/Control-US-House-Looks-Too-Close-Call.aspx?version=print
+
+"Trends for Comparison: Final pre-election poll trends"
+REGISTERED VOTERS:
+| 1992 Oct 23-25 | Democratic candidate 51 | Republican candidate 41 | Undecided/other 8 |
+
+(No likely-voter final generic ballot for 1992 appears in this
+release's trend table; the registered-voter figure is the published
+final pre-election value available.)
+
+=====================================================================
+DOCUMENT 2 (independent corroboration of the same trend row)
+Publisher: Gallup News Service
+Document: "FINAL PRE-ELECTION POLL -- FINAL TOPLINE"
+(Timberline 937080; final 2012 poll conducted November 1-4, 2012)
+URL: http://gallup.com/file/poll/158540/Congress_121106.pdf
+
+"TRENDS FOR COMPARISON: Final Pre-Election Poll Trends
+(Presidential election years)" — REGISTERED VOTERS:
+2008 Oct 31-Nov 2  54  39  7
+2004 Oct 29-31     49  45  6
+2000 Nov 5-6       50  42  8
+1996 Nov 3-4       47  47  6
+1992 Oct 23-25     51  41  8
+(columns: Democratic candidate / Republican candidate /
+Undecided-other)

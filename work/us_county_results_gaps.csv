@@ -1,0 +1,42 @@
+office,state,year,counties_covered,counties_expected,coverage_pct,status,gap_reason,note
+house,ALABAMA,2014,64,67,0.955,partial,partial,
+house,ARKANSAS,1998,50,75,0.667,partial,unopposed_no_ballot,"district 1 (Marion Berry) unopposed, votes not tabulated"
+house,ARKANSAS,2000,59,75,0.787,partial,unopposed_no_ballot,"district 3 (Asa Hutchinson) unopposed, votes not tabulated"
+house,ARKANSAS,2004,46,75,0.613,partial,unopposed_no_ballot,"district 4 (Mike Ross) unopposed, votes not tabulated"
+house,ARKANSAS,2008,49,75,0.653,partial,unopposed_no_ballot,"district 1 (Marion Berry) unopposed, votes not tabulated"
+house,ARKANSAS,2012,72,75,0.96,partial,partial,
+house,CONNECTICUT,1998,5,8,0.625,partial,partial,
+house,FLORIDA,1990,53,67,0.791,partial,unopposed_no_ballot,"districts 8 (C. W. Bill Young), 10 (Andy Ireland), 12 (Tom Lewis), 13 (Porter J. Goss), 16 (Larry Smith) unopposed, not on the ballot"
+house,FLORIDA,1994,61,67,0.91,partial,unopposed_no_ballot,"districts 4 (Tillie K. Fowler), 10 (C. W. Bill Young), 13 (Dan Miller), 14 (Porter J. Goss), 18 (Ileana Ros-Lehtinen), 23 (Alcee L. Hastings) unopposed, not on the ballot"
+house,FLORIDA,1996,65,67,0.97,partial,partial,"district 4 (Tillie K. Fowler) unopposed, not on the ballot (1 county); 1 other county missing data"
+house,FLORIDA,1998,45,67,0.672,partial,unopposed_no_ballot,"districts 4 (Tillie K. Fowler), 6 (Cliff Stearns), 7 (John L. Mica), 9 (Michael Bilirakis), 10 (C. W. Bill Young), 12 (Charles T. Canady), 13 (Dan Miller), 14 (Porter J. Goss), 16 (Mark Foley), 17 (Carrie P. Meek), 18 (Ileana Ros-Lehtinen), 19 (Robert Wexler), 20 (Peter Deutsch), 22 (E. Clay Shaw Jr.), 23 (Alcee L. Hastings) unopposed, not on the ballot"
+house,FLORIDA,2004,65,67,0.97,partial,unopposed_no_ballot,"districts 7 (John L. Mica), 19 (Robert Wexler), 23 (Alcee L. Hastings), 24 (Tom Feeney), 25 (Mario Diaz-Balart) unopposed, not on the ballot"
+house,FLORIDA,2006,55,67,0.821,partial,unopposed_no_ballot,"districts 2 (Allen Boyd), 3 (Corrine Brown), 19 (Robert Wexler), 20 (Debbie Wasserman Schultz), 23 (Alcee L. Hastings) unopposed, not on the ballot"
+house,LOUISIANA,1990,61,64,0.953,partial,unopposed_no_ballot,"district 6 (Richard H. Baker) unopposed, not on the ballot"
+house,LOUISIANA,1996,49,64,0.766,partial,unopposed_no_ballot,"districts 1 (Bob Livingston), 2 (William J. Jefferson), 3 (W. J. (Billy) Tauzin) unopposed, not on the ballot"
+house,LOUISIANA,1998,11,64,0.172,partial,unopposed_no_ballot,"districts 1 (Bob Livingston), 3 (W. J. (Billy) Tauzin), 4 (Jim McCrery), 5 (John Cooksey), 7 (Christopher John) unopposed, not on the ballot"
+house,LOUISIANA,2004,52,64,0.812,partial,unopposed_no_ballot,"district 4 (Jim McCrery) unopposed, not on the ballot"
+house,LOUISIANA,2008,36,64,0.562,partial,unopposed_no_ballot,"districts 3 (Charlie Melancon), 5 (Rodney Alexander) unopposed, not on the ballot"
+house,LOUISIANA,2010,57,64,0.891,partial,unopposed_no_ballot,"district 7 (Charles W. Boustany Jr.) unopposed, not on the ballot"
+house,LOUISIANA,2022,49,64,0.766,partial,unopposed_no_ballot,"district 4 (Mike Johnson) unopposed, not on the ballot"
+house,MASSACHUSETTS,1996,13,14,0.929,partial,partial,
+house,MICHIGAN,1996,0,83,0,none,source_not_found,no county-level source found yet; may include unopposed seats
+house,MISSISSIPPI,1996,0,82,0,none,source_not_found,no county-level source found yet; may include unopposed seats
+house,OHIO,1998,0,88,0,none,source_not_found,no county-level source found yet; may include unopposed seats
+house,OKLAHOMA,2010,63,77,0.818,partial,unopposed_no_ballot,"district 4 (Tom Cole) unopposed, not on the ballot"
+house,OKLAHOMA,2014,74,77,0.961,partial,unopposed_no_ballot,"district 1 (Jim Bridenstine) unopposed, not on the ballot"
+house,OKLAHOMA,2016,74,77,0.961,partial,unopposed_no_ballot,"district 1 (Jim Bridenstine) unopposed, not on the ballot"
+house,OKLAHOMA,2024,49,77,0.636,partial,unopposed_no_ballot,"district 3 (Frank D. Lucas) unopposed, not on the ballot"
+house,PENNSYLVANIA,1990,0,67,0,none,source_not_found,no county-level source found yet; may include unopposed seats
+house,PENNSYLVANIA,1992,0,67,0,none,source_not_found,no county-level source found yet; may include unopposed seats
+house,TEXAS,1990,0,254,0,none,source_not_found,no county-level source found yet; may include unopposed seats
+senate,ARIZONA,2020,0,15,0,none,special_election_only,the only Senate race that year was a special election (excluded from v1)
+senate,ARKANSAS,1990,68,75,0.907,partial,partial,
+senate,DELAWARE,2010,0,3,0,none,special_election_only,the only Senate race that year was a special election (excluded from v1)
+senate,GEORGIA,2000,0,159,0,none,special_election_only,the only Senate race that year was a special election (excluded from v1)
+senate,IDAHO,2022,43,44,0.977,partial,partial,
+senate,INDIANA,1990,0,92,0,none,special_election_only,the only Senate race that year was a special election (excluded from v1)
+senate,MASSACHUSETTS,2010,0,14,0,none,special_election_only,the only Senate race that year was a special election (excluded from v1)
+senate,MISSOURI,2002,0,115,0,none,special_election_only,the only Senate race that year was a special election (excluded from v1)
+senate,OKLAHOMA,1994,0,77,0,none,special_election_only,the only Senate race that year was a special election (excluded from v1)
+senate,WEST VIRGINIA,2010,0,55,0,none,special_election_only,the only Senate race that year was a special election (excluded from v1)

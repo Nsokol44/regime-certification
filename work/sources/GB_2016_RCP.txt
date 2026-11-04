@@ -1,0 +1,23 @@
+SOURCE ARCHIVE — text extraction
+Publisher: RealClearPolling (RealClearPolitics)
+Page: "2016 Generic Congressional Vote | RealClearPolling"
+URL: https://www.realclearpolling.com/polls/state-of-the-union/2016/generic-congressional-vote
+Accessed: 2026-11-04
+Covers CSV row: 2016
+
+=====================================================================
+| Final Results | -- | -- | Democrats 48.0 | Republicans 49.1 | Republicans +1.1 |
+| RCP Average   | 11/1 - 11/7 | -- | Democrats 46.0 | Republicans 45.4 | Democrats +0.6 |
+
+Final polls in the window (pollster | date | sample | Dem | Rep):
+| Bloomberg          | 11/4 - 11/6 | 799 LV  | 45 | 48 |
+| Economist/YouGov   | 11/4 - 11/7 | 3677 LV | 45 | 42 |
+| FOX News           | 11/3 - 11/6 | 1295 LV | 45 | 46 |
+| NBC News/Wall St. Jrnl | 11/3 - 11/5 | 1282 LV | 47 | 44 |
+| McClatchy/Marist   | 11/1 - 11/3 | 940 LV  | 48 | 47 |
+| Economist/YouGov   | 10/30 - 11/1 | 1228 LV | 46 | 41 |
+| Reuters/Ipsos      | 10/29 - 11/2 | 1858 LV | 42 | 41 |
+| CBS News/NY Times  | 10/28 - 11/1 | 1333 RV | 49 | 46 |
+
+Note: RCP's published final-average window ends 11/7/2016, the day
+before election day (Nov 8, 2016).

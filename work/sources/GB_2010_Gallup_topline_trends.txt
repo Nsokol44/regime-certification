@@ -1,0 +1,39 @@
+SOURCE ARCHIVE — text extraction
+Publisher: USA TODAY/Gallup Poll
+Document: "2010 FINAL MIDTERM PRE-ELECTION POLL -- FINAL TOPLINE"
+(Timberline: 927571; Princeton Job #: 10-10-019; Jeff Jones,
+Lydia Saad; final 2010 poll conducted October 28-31, 2010)
+URL: http://gallup.com/file/poll/144131/Final_Midterm_Election_Estimate%20_Nov_1_2010.pdf
+Accessed: 2026-11-04
+Purpose in this collection: Gallup's own trend tables of FINAL
+midterm pre-election polls — used to pin the field dates of the
+final Gallup surveys for 1990, 1994, 1998, 2002 (and as raw-value
+cross-checks for the allocated series used in the CSV).
+
+=====================================================================
+Q.2/2A (congressional vote, incl. leaners)
+"TRENDS FOR COMPARISON: Final likely voter midterm election
+estimates 1950-2006" (Democratic / Republican / Undecided-other):
+(LV) 2006 Nov 2-5        51  44  5
+(LV) 2002 Oct 31-Nov 3   45  51  4
+(LV) 1998 Oct 29-Nov 1   49  45  6
+(LV) 1994 Nov 2-6        44  51  5
+(LV) 1990 Oct 25-28      54  46  --
+
+"TRENDS FOR COMPARISON: Final registered voter midterm election
+estimates 1950-2006":
+(RV) 2006 Nov 2-5        51  40  9
+(RV) 2002 Oct 31-Nov 3   49  44  7
+(RV) 1998 Oct 29-Nov 1   50  41  9
+(RV) 1994 Nov 2-6        46  46  8
+(RV) 1990 Oct 25-28      50  40  10
+
+The document's Q.1 comparison table likewise dates the final
+midterm surveys: 2006 Nov 2-5; 2002 Oct 31-Nov 3; 1998 Oct 29-Nov 1;
+1994 Nov 2-6; 1990 Oct 25-28.
+
+Note: the raw likely-voter values in these trend tables (e.g., 1994:
+44/51; 2002: 45/51) are the unallocated poll results. The CSV uses
+Gallup's published ALLOCATED final estimates for 1994-2004 (see
+GB_1994_2004_Gallup.txt), which is the series Gallup itself
+headlined as its final pre-election generic ballot.

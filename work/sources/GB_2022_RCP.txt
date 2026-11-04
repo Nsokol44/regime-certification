@@ -1,0 +1,33 @@
+SOURCE ARCHIVE — text extraction
+Publisher: RealClearPolling (RealClearPolitics)
+Page: "2022 Generic Congressional Vote | RealClearPolling"
+URL: https://www.realclearpolling.com/polls/state-of-the-union/2022/generic-congressional-vote
+Accessed: 2026-11-04
+Covers CSV row: 2022
+
+=====================================================================
+| Final Results | -- | -- | Republicans 50.6 | Democrats 47.8 | Republicans +2.8 |
+| RCP Average   | 10/18 - 11/6 | -- | Republicans 48.0 | Democrats 45.5 | Republicans +2.5 |
+
+Final polls in the window (pollster | date | sample | Rep | Dem):
+| Trafalgar Group       | 11/4 - 11/6   | 1099 LV | 48 | 43 |
+| Politico/Morning Consult | 11/4 - 11/5 | 2005 RV | 43 | 48 |
+| Economist/YouGov      | 11/3 - 11/6   | 1068 LV | 49 | 48 |
+| Data for Progress (D) | 11/3 - 11/6   | 1130 LV | 52 | 48 |
+| NBC News              | 11/3 - 11/5   | 786 LV  | 47 | 48 |
+| Rasmussen Reports     | 10/30 - 11/3  | 2500 LV | 48 | 43 |
+| ABC News/Wash Post    | 10/30 - 11/2  | 708 LV  | 50 | 48 |
+| NewsNation            | 10/28 - 10/31 | 1017 RV | 45 | 43 |
+| CNN                   | 10/26 - 10/31 | 992 LV  | 51 | 47 |
+| Quinnipiac            | 10/26 - 10/30 | 2010 RV | 48 | 44 |
+| CBS News Battleground Tracker | 10/26 - 10/28 | 1899 LV | 47 | 45 |
+| NPR/PBS/Marist        | 10/24 - 10/27 | 1200 LV | 49 | 46 |
+| InsiderAdvantage      | 10/25 - 10/25 | 750 LV  | 48 | 44 |
+| Wall Street Journal   | 10/22 - 10/26 | 1500 RV | 46 | 44 |
+| USA Today/Suffolk     | 10/19 - 10/24 | 1000 LV | 49 | 45 |
+| Democracy Corps (D)   | 10/19 - 10/23 | LV      | 50 | 48 |
+| Emerson               | 10/18 - 10/19 | 1000 LV | 46 | 41 |
+
+Note: RCP's published final-average window for 2022 ends 11/6, two
+days before election day (Nov 8, 2022); all polls in the window were
+conducted pre-election.

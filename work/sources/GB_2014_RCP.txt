@@ -1,0 +1,22 @@
+SOURCE ARCHIVE — text extraction
+Publisher: RealClearPolling (RealClearPolitics)
+Page: "This Day In History - Generic Ballot 2026 vs. 2022, 2018, 2014, 2010"
+URL: https://www.realclearpolling.com/polls/this-day-in-history/generic-ballot/2026-vs-2022-vs-2018-vs-2014-vs-2010
+Accessed: 2026-11-04
+Covers CSV row: 2014
+
+=====================================================================
+2014 Generic Congressional Vote
+| Final Results | -- | -- | Republicans 51.4 | Democrats 45.7 | Republicans +5.7 |
+| RCP Average   | 10/15 - 11/2 | -- | Republicans 45.6 | Democrats 43.2 | Republicans +2.4 |
+
+Final polls in the window (pollster | date | sample | Rep | Dem):
+| NBC News/Wall St. Jrnl | 10/30 - 11/1  | 826 LV  | 48 | 48 |
+| Rasmussen Reports      | 10/27 - 11/2  | 3500 LV | 44 | 41 |
+| FOX News               | 10/25 - 10/27 | 734 LV  | 44 | 45 |
+| CBS News               | 10/23 - 10/27 | 624 LV  | 50 | 42 |
+| CNN/Opinion Research   | 10/24 - 10/26 | 540 LV  | 46 | 47 |
+| ABC News/Wash Post     | 10/23 - 10/26 | 758 LV  | 50 | 44 |
+| USA Today/PSRAI        | 10/23 - 10/26 | 697 LV  | 42 | 43 |
+| Associated Press/GfK   | 10/16 - 10/20 | 968 LV  | 40 | 32 |
+| Pew Research           | 10/15 - 10/20 | 1126 LV | 46 | 47 |

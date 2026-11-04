@@ -1,0 +1,44 @@
+SOURCE ARCHIVE — text extraction
+Publisher: SelectSmart.com (post by Curt_Anderson, May 20, 2022),
+republishing RealClearPolitics' historical midterm generic-ballot
+table verbatim (the post links each row back to realclearpolitics.com)
+URL: https://selectsmart.com/post/index.html?article=1526
+Accessed: 2026-11-04
+Purpose in this collection: the only retrievable copy of RCP's final
+2002 average (a RealClearPolling cycle page for 2002 could not be
+located). Its 2006/2010/2014/2018 average rows agree EXACTLY with
+RealClearPolling's own current pages, which is why the republication
+is treated as faithful. The CSV does NOT use the 2002 RCP value (the
+Gallup allocated value is used for series consistency); it is
+archived here as the documented cross-check / disagreement.
+
+=====================================================================
+"Here all the midterms that RCP has recorded."
+(Row values transcribed verbatim; the party order of the two share
+columns differs by cycle table on RCP's pages, so each row below is
+annotated with the party order implied by its own spread column and
+verified against RealClearPolling where possible.)
+
+2002 Final Results -- -- 45.0 49.6 Republicans +4.6
+RCP Average 10/26 - 11/3 -- 46.0 47.7 Republicans +1.7
+  => 2002 RCP Average: Dem 46.0, Rep 47.7 (Rep +1.7)
+
+2006 Final Results -- -- 44.1 52.0 Democrats +7.9
+RCP Average 11/1 - 11/5 -- 40.6 52.1 Democrats +11.5
+  => 2006 RCP Average: Rep 40.6, Dem 52.1 (Dem +11.5) [matches
+     RealClearPolling "This Day In History" page]
+
+2010 Final Results -- -- 51.6 44.8 Republicans +6.8
+RCP Average 10/25 - 10/31 -- 50.7 41.3 Republicans +9.4
+  => 2010 RCP Average: Rep 50.7, Dem 41.3 (Rep +9.4) [matches
+     RealClearPolling]
+
+2014 Final Results -- -- 51.4 45.7 Republicans +5.7
+RCP Average 10/15 - 11/2 -- 45.6 43.2 Republicans +2.4
+  => 2014 RCP Average: Rep 45.6, Dem 43.2 (Rep +2.4) [matches
+     RealClearPolling]
+
+2018 Final Results -- -- 53.3 44.9 Democrats +8.4
+RCP Average 10/13 - 11/3 -- 49.7 42.4 Democrats +7.3
+  => 2018 RCP Average: Dem 49.7, Rep 42.4 (Dem +7.3) [matches
+     RealClearPolling]

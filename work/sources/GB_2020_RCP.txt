@@ -1,0 +1,20 @@
+SOURCE ARCHIVE — text extraction
+Publisher: RealClearPolling (RealClearPolitics)
+Page: "2020 Generic Congressional Vote | RealClearPolling"
+URL: https://www.realclearpolling.com/polls/state-of-the-union/2020/generic-congressional-vote
+Accessed: 2026-11-04
+Covers CSV row: 2020
+
+=====================================================================
+| Final Results | -- | -- | Democrats 50.8 | Republicans 47.7 | Democrats +3.1 |
+| RCP Average   | 10/25 - 11/2 | -- | Democrats 49.3 | Republicans 42.5 | Democrats +6.8 |
+
+Final polls in the window (pollster | date | sample | Dem | Rep):
+| Economist/YouGov       | 10/31 - 11/2  | 1363 LV  | 52 | 42 |
+| NBC News/Wall St. Jrnl | 10/29 - 10/31 | 1000 RV  | 48 | 43 |
+| Politico/Morning Consult | 10/29 - 10/31 | 14663 LV | 50 | 43 |
+| The Hill/HarrisX       | 10/25 - 10/28 | 2359 LV  | 47 | 42 |
+| Economist/YouGov       | 10/25 - 10/27 | 1365 LV  | 52 | 42 |
+| USC Dornsife           | 10/20 - 11/2  | 5413 LV  | 53 | 45 |
+| USA Today/Suffolk      | 10/23 - 10/27 | 1000 LV  | 49 | 39 |
+| CNN                    | 10/23 - 10/26 | 886 LV   | 54 | 42 |

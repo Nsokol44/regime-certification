@@ -1,0 +1,39 @@
+SOURCE ARCHIVE — text extraction
+Publisher: RealClearPolling (RealClearPolitics)
+Page: "This Day In History - Generic Ballot 2026 vs. 2022, 2018, 2014, 2010"
+URL: https://www.realclearpolling.com/polls/this-day-in-history/generic-ballot/2026-vs-2022-vs-2018-vs-2014-vs-2010
+Accessed: 2026-11-04
+Covers CSV row: 2026
+
+=====================================================================
+2026 Generic Congressional Vote
+| RCP Average | 10/9 - 11/1 | -- | Democrats 52.1 | Republicans 43.3 | Democrats +8.8 |
+
+Final polls in the average window (pollster | date | sample | Dem | Rep):
+| Financial Times      | 10/30 - 11/1  | 2090 LV  | 52 | 45 |
+| Reuters/Ipsos        | 10/29 - 11/1  | 1212 LV  | 52 | 44 |
+| Atlas Intel          | 10/28 - 11/1  | 3566 LV  | 56 | 41 |
+| Morning Consult      | 10/26 - 11/1  | 16929 LV | 51 | 43 |
+| NBC News             | 10/28 - 10/30 | 1000 RV  | 52 | 45 |
+| Big Data Poll        | 10/27 - 10/30 | 3214 LV  | 52 | 40 |
+| Economist/YouGov     | 10/27 - 10/30 | 3915 LV  | 53 | 44 |
+| I&I/TIPP             | 10/27 - 10/30 | 1158 LV  | 52 | 42 |
+| THP/MM               | 10/28 - 10/29 | 1158 LV  | 54 | 41 |
+| Harvard-Harris       | 10/24 - 10/26 | LV       | 52 | 48 |
+| Emerson              | 10/24 - 10/26 | 1000 LV  | 52 | 42 |
+| Rasmussen Reports    | 10/22 - 10/28 | 1442 LV  | 49 | 43 |
+| NPR/PBS/Marist       | 10/22 - 10/25 | 1289 LV  | 52 | 44 |
+| Cygnal               | 10/23 - 10/24 | 1500 LV  | 52 | 43 |
+| CBS News             | 10/21 - 10/23 | 1749 LV  | 53 | 45 |
+| CNBC                 | 10/15 - 10/19 | 1000 RV  | 52 | 45 |
+| Echelon Insights     | 10/15 - 10/19 | 1010 LV  | 50 | 45 |
+| CNN                  | 10/15 - 10/18 | 1206 RV  | 49 | 39 |
+| NY Times/Siena       | 10/12 - 10/19 | 3494 LV  | 52 | 41 |
+| RMG Research         | 10/12 - 10/13 | LV       | 54 | 43 |
+| ABC/Wash Post/Ipsos  | 10/9 - 10/13  | 2032 LV  | 52 | 44 |
+| FOX News             | 10/9 - 10/12  | 1202 RV  | 54 | 45 |
+
+Note: a Delaware Online snapshot of the average published Nov 2,
+2026 read Dem 52.0 / Rep 43.1 (Dem +8.9). The final published window
+value above (52.1 / 43.3, window ending 11/1) is the one used in the
+CSV. Election day 2026: November 3, 2026.

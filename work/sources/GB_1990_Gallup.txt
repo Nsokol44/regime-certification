@@ -1,0 +1,42 @@
+SOURCE ARCHIVE — text extraction (two Gallup documents)
+Covers CSV row: 1990 (value corroboration + final-poll field dates)
+Accessed: 2026-11-04
+
+=====================================================================
+DOCUMENT 1
+Publisher: Gallup News Service
+Article: "Democrats Hold Edge In House Vote" (published 1998-11-02)
+URL: https://news.gallup.com/poll/4144/democrats-hold-edge-house-vote.aspx
+
+Table: "Generic Congressional Ballot 1950-1998 Final Pre-Election
+Figures Based on Likely Voters" (undecided allocated proportionally):
+| 1990 | Democratic 54 | Republican 46 | Dem advantage 8 |
+
+The same 54/46 figure appears in Gallup's companion release
+"Tight Midterm Congressional Elections Hang On Voter Turnout"
+(1998-10-30), Table 1, https://news.gallup.com/poll/4147/tight-midterm-congressional-elections-hang-voter-turnout.aspx
+and the Republican share (46.0) is corroborated by the accuracy table
+in Gallup's 2004 release (poll 13879): "1990 | Actual Republican
+two-party vote 45.9 | Republican % in final Gallup poll 46.0".
+
+=====================================================================
+DOCUMENT 2 (field dates for the final 1990 poll, and raw LV value)
+Publisher: USA TODAY/Gallup Poll
+Document: "2010 FINAL MIDTERM PRE-ELECTION POLL -- FINAL TOPLINE"
+(Timberline 927571; final 2010 poll conducted October 28-31, 2010)
+URL: http://gallup.com/file/poll/144131/Final_Midterm_Election_Estimate%20_Nov_1_2010.pdf
+
+"TRENDS FOR COMPARISON: Final likely voter midterm election
+estimates 1950-2006" (Q.2/2A congressional vote, incl. leaners;
+columns: Democratic candidate / Republican candidate /
+Undecided-other):
+(LV) 2006 Nov 2-5        51  44  5
+(LV) 2002 Oct 31-Nov 3   45  51  4
+(LV) 1998 Oct 29-Nov 1   49  45  6
+(LV) 1994 Nov 2-6        44  51  5
+(LV) 1990 Oct 25-28      54  46  --
+
+So Gallup's final 1990 pre-election survey was conducted
+October 25-28, 1990, and its likely-voter result was Dem 54 / Rep 46
+with no undecided/other share reported (the figure is already the
+allocated/two-party estimate in Gallup's historical tables).

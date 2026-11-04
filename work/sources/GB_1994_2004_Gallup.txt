@@ -1,0 +1,51 @@
+SOURCE ARCHIVE — text extraction
+Publisher: Gallup News Service
+Article: "Control of U.S. House Looks Too Close to Call" (published 2004-11-01)
+URL: https://news.gallup.com/poll/13879/Control-US-House-Looks-Too-Close-Call.aspx?version=print
+Accessed: 2026-11-04
+Covers CSV rows: 1992 (trend table), 1994, 1996, 1998, 2000, 2002, 2004 (allocated table)
+
+=====================================================================
+PRINCETON, NJ -- The CNN/USA Today/Gallup final pre-election poll,
+conducted Oct. 29-31, finds the Democrats and Republicans virtually
+tied on an important indicator of each party's strength in the race
+for control of the U.S. House of Representatives. According to the
+"generic ballot" ... the Democrats lead by 50.5% to 49.5% ...
+
+Likely Voters (2004 final poll detail):
+| 2004 Oct 29-31        | Dem 48 | Rep 47 | Undecided/other 5 |
+| Final Allocated Estimate | 50.5 | 49.5   | --                |
+| 2004 Oct 22-24        | 47     | 50     | 3                 |
+
+**Gallup Final Pre-Election Generic Ballot, 1994-2004**
+(allocated likely-voter estimates, % voting Dem / % voting Rep)
+| 2004 | 50.5 | 49.5 | Net % Rep -1.0 |
+| 2002 | 47.0 | 53.0 | +6.0 |
+| 2000 | 50.5 | 49.5 | -1.0 |
+| 1998 | 50.0 | 50.0 |  0.0 |
+| 1996 | 49.5 | 50.5 | +1.0 |
+| 1994 | 46.5 | 53.5 | +7.0 |
+
+**Gallup Accuracy in Forecasting Republican Share of National
+Two-Party Vote for U.S. House of Representatives** (excerpt)
+| 2002 | Actual Rep two-party 53.1 | Rep % in final Gallup poll 53.0 |
+| 2000 | 50.2 | 49.5 |
+| 1998 | 50.5 | 50.0 |
+| 1996 | 50.2 | 50.5 |
+| 1994 | 53.5 | 53.5 |
+| 1990 | 45.9 | 46.0 |
+
+Survey Methods: Results are based on telephone interviews with 2,014
+national adults, conducted Oct. 29-31, 2004. Likely voters: subsample
+of 1,573; LV model assumes turnout of 60% of national adults.
+
+*Trends for Comparison: Final pre-election poll trends*
+Likely Voters:
+| 2000 Nov 5-6 | Dem 49 | Rep 45 | Undecided/other 6 |
+| 1996 Nov 3-4 | 48     | 45     | 7                 |
+Registered Voters:
+| 2000 Nov 5-6  | 50 | 42 | 8  |
+| 1996 Nov 3-4  | 47 | 47 | 6  |
+| 1992 Oct 23-25| 51 | 41 | 8  |
+
+Published: 2004-11-01

@@ -1,0 +1,28 @@
+SOURCE ARCHIVE — text extraction
+Publisher: Gallup News Service
+Article: "Democrats Lead Big on Generic Ballot" (published 2008-11-02)
+URL: https://news.gallup.com/poll/111709/Democrats-Lead-Big-Generic-Ballot.aspx
+Accessed: 2026-11-04
+Covers CSV row: 2008 (single-poll stand-in for the RCP average)
+
+=====================================================================
+"PRINCETON, NJ -- Gallup's final pre-election allocated estimate of
+the national 2008 vote for Congress -- from Gallup Poll Daily
+tracking conducted Oct. 31-Nov. 2 -- gives the Democrats a 12
+percentage-point lead over the Republicans among likely voters, 53%
+to 41%."
+
+"The final estimate is based on Gallup's traditional likely voter
+model, and assumes a turnout rate of 64% of the voting-age
+population. ... the Democrats' advantage among traditional likely
+voters is not much different from their standing among all registered
+voters, among whom they hold a 15-point lead."
+
+Survey Methods: "Results are based on telephone interviews with
+3,050 national adults, aged 18 and older, conducted Oct. 31-Nov. 2,
+2008 as part of Gallup Poll Daily tracking. ... Results for likely
+voters (based on Gallup's 'traditional' likely voter model ...) are
+based on the subsample of 2,472 survey respondents deemed most likely
+to vote in the November 2008 general election..."
+
+Published: 2008-11-02

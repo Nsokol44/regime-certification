@@ -1,0 +1,45 @@
+SOURCE ARCHIVE — text extraction
+Publisher: Gallup News Service
+Article: "Democrats Hold Edge In House Vote" (published 1998-11-02)
+URL: https://news.gallup.com/poll/4144/democrats-hold-edge-house-vote.aspx
+Accessed: 2026-11-04
+Covers CSV rows: 1990 (historical table), 1994 (historical table),
+1998 (contemporaneous final release — cross-check for the CSV value)
+
+=====================================================================
+"Just one day before the election, likely voters across the country
+favor Democratic over Republican congressional candidates by a margin
+of 49% to 45%, according to the latest Gallup poll, conducted over
+the weekend."
+
+Survey Methods: "The results are based on telephone interviews with a
+randomly selected national sample of 2,084 adults, 18 years and
+older, conducted October 29-November 1, 1998. This sample includes
+1,105 'likely voters.'"
+
+*Generic Congressional Ballot
+1950-1998 Final Pre-Election Figures Based on Likely Voters*
+"If the elections for Congress were being held today, which party's
+candidate would you vote for in your Congressional district -- the
+Democratic Party's candidate, or the Republican Party's candidate?
+(ROTATED)
+(In the table, the undecided vote is allocated proportionally to the
+two parties. Thus, in 1998, the 49% to 45% Democratic lead gives a
+51.8% to 48.2% two-party vote.)"
+
+| Year        | Democratic Candidate | Republican Candidate | Dem advantage |
+| 1998 (final)| 54.8 [see note]      | 48.2                 | 3.6           |
+| 1994        | 46.5                 | 53.5                 | -7            |
+| 1990        | 54                   | 46                   | 8             |
+| 1982        | 55                   | 45                   | -10           |
+
+NOTE on the 1998 row: as printed/extracted, the Democratic figure
+reads "54.8", which is internally inconsistent (54.8 + 48.2 = 103,
+and the printed advantage is 3.6). The release's own text states the
+allocated 1998 result as 51.8% to 48.2% (51.8 - 48.2 = 3.6), so
+"54.8" appears to be a typographical error on the page for 51.8.
+Gallup's later uniform table (2004 release, "Gallup Final
+Pre-Election Generic Ballot, 1994-2004") lists 1998 as 50.0 / 50.0.
+See POLL_SOURCES_MEMO.md for how this disagreement was handled.
+
+Published: 1998-11-02

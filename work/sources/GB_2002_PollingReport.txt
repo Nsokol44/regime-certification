@@ -1,0 +1,33 @@
+SOURCE ARCHIVE — text extraction
+Publisher: PollingReport.com
+Page: "Election 2002" — Generic House Ballot Test section
+URL: https://www.pollingreport.com/2002.htm
+Accessed: 2026-11-04
+Purpose in this collection: pins the field dates and raw likely-voter
+result of the final CNN/USA Today/Gallup poll of 2002 (the poll behind
+the allocated 47.0/53.0 figure used in the CSV for 2002).
+
+=====================================================================
+"CNN/USA Today/Gallup Poll. Latest: Oct. 31-Nov. 3, 2002. N=1,061
+registered voters nationwide (MoE ± 3), including 715 likely voters
+(MoE ± 4)."
+
+Question: "If the elections for Congress were being held today, which
+party's candidate would you vote for in your congressional district:
+[rotate] the Democratic Party's candidate or the Republican Party's
+candidate?" If undecided: "As of today, do you lean more toward
+[rotate] the Democratic Party's candidate or the Republican Party's
+candidate?"
+
+Among likely voters:
+| 10/31 - 11/3/02 | Republican 51 | Democrat 45 | Other (vol.)/Undecided 4 |
+| 10/21-22/02     | 46 | 49 | 5 |
+| 10/3-6/02       | 47 | 48 | 5 |
+| 9/20-22/02      | 46 | 50 | 4 |
+
+Among registered voters:
+| 10/31 - 11/3/02 | Republican 44 | Democrat 49 | Other/Undecided 7 |
+
+Contemporaneous corroboration: USA TODAY, Nov 3, 2002 (Richard
+Benedetto): "A USA TODAY/CNN/Gallup Poll this weekend shows that in
+House races, likely voters prefer Republicans to Democrats 51%-45%."

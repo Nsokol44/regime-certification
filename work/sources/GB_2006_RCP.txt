@@ -1,0 +1,21 @@
+SOURCE ARCHIVE — text extraction
+Publisher: RealClearPolling (RealClearPolitics)
+Page: "This Day In History - Generic Ballot 2026 vs. 2022, 2018, 2014, 2010"
+URL: https://www.realclearpolling.com/polls/this-day-in-history/generic-ballot/2026-vs-2022-vs-2018-vs-2014-vs-2010
+Accessed: 2026-11-04
+Covers CSV row: 2006 (first cycle of the RCP-average block; the
+splice from Gallup final polls is at 2006)
+
+=====================================================================
+2006 Generic Congressional Vote
+| Final Results | -- | -- | Republicans 44.1 | Democrats 52.0 | Democrats +7.9 |
+| RCP Average   | 11/1 - 11/5 | -- | Republicans 40.6 | Democrats 52.1 | Democrats +11.5 |
+
+Final polls in the window (pollster | date | sample | Rep | Dem):
+| FOX News          | 11/4 - 11/5 | 900 LV  | 36 | 49 |
+| CNN               | 11/3 - 11/5 | 636 LV  | 38 | 58 |
+| USA Today/Gallup  | 11/2 - 11/5 | 1362 LV | 44 | 51 |
+| ABC News/Wash Post | 11/1 - 11/4 | LV     | 45 | 51 |
+| Pew Research      | 11/1 - 11/4 | LV      | 43 | 47 |
+| Newsweek          | 11/2 - 11/3 | 838 LV  | 38 | 54 |
+| Time              | 11/1 - 11/3 | 679 LV  | 40 | 55 |

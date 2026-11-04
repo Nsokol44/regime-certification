@@ -1,0 +1,23 @@
+SOURCE ARCHIVE — text extraction
+Publisher: RealClearPolling (RealClearPolitics)
+Page: "2024 Generic Congressional Vote | RealClearPolling"
+URL: https://www.realclearpolling.com/polls/state-of-the-union/2024/generic-congressional-vote
+Accessed: 2026-11-04
+Covers CSV row: 2024
+
+=====================================================================
+| Final Results | -- | -- | Republicans 50.6 | Democrats 47.9 | Republicans +2.7 |
+| RCP Average   | 10/14 - 11/2 | -- | Republicans 47.0 | Democrats 46.7 | Republicans +0.3 |
+
+Final polls in the window (pollster | date | sample | Rep | Dem):
+| NPR/PBS/Marist    | 10/31 - 11/2  | 1297 LV | 48 | 50 |
+| NBC News          | 10/30 - 11/2  | 1000 RV | 46 | 47 |
+| Forbes/HarrisX    | 10/30 - 11/2  | 3759 LV | 46 | 46 |
+| Emerson           | 10/30 - 11/2  | 1000 LV | 47 | 48 |
+| Yahoo News        | 10/29 - 10/31 | 1073 LV | 45 | 48 |
+| Economist/YouGov  | 10/26 - 10/29 | 1309 LV | 47 | 46 |
+| NY Times/Siena    | 10/20 - 10/23 | 2516 LV | 48 | 48 |
+| CNN               | 10/20 - 10/23 | 1704 LV | 48 | 45 |
+| Wall Street Journal | 10/19 - 10/22 | 1500 RV | 49 | 45 |
+| CNBC              | 10/15 - 10/19 | 1000 RV | 48 | 44 |
+| USA Today/Suffolk | 10/14 - 10/18 | 1000 LV | 45 | 47 |
