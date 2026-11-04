@@ -47,7 +47,7 @@ for x in tg:
 poll_w={}; poll_sgn_pt={}; poll_sgn_fb={}
 for x in tg:
     t=x['t']
-    if t not in poll_cal: continue
+    if t not in poll_cal or t not in signed_mean: continue
     hist=[s for s in sorted(poll_cal_err) if s<t and CERT.get(s,False) and s in signed_err]
     if len(hist)>=3:
         msep=float(np.mean([poll_cal_err[s]**2 for s in hist])); mses=float(np.mean([signed_err[s]**2 for s in hist]))
